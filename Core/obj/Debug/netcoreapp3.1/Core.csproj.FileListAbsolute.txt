@@ -1,0 +1,12 @@
+D:\C#\JWT token api\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\C#\JWT token api\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\C#\JWT token api\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+D:\C#\JWT token api\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\C#\JWT token api\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\C#\JWT token api\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\C#\JWT token api\Core\bin\Debug\netcoreapp3.1\JWT token api.Domain.dll
+D:\C#\JWT token api\Core\bin\Debug\netcoreapp3.1\JWT token api.Domain.pdb
+D:\C#\JWT token api\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\C#\JWT token api\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete
+D:\C#\JWT token api\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\C#\JWT token api\Core\obj\Debug\netcoreapp3.1\Core.pdb

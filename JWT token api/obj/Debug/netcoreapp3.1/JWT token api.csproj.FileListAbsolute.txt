@@ -35,3 +35,6 @@ D:\C#\JWT token api\JWT token api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.O
 D:\C#\JWT token api\JWT token api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\C#\JWT token api\JWT token api\bin\Debug\netcoreapp3.1\JWT token api.Domain.dll
 D:\C#\JWT token api\JWT token api\bin\Debug\netcoreapp3.1\JWT token api.Domain.pdb
+D:\C#\JWT token api\JWT token api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\JWT token api\JWT token api\bin\Debug\netcoreapp3.1\Core.dll
+D:\C#\JWT token api\JWT token api\bin\Debug\netcoreapp3.1\Core.pdb
